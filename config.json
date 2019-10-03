@@ -3,8 +3,8 @@
   "username": "rafaelbarbosadc",
   "name": null,
   "userimg": "https://avatars1.githubusercontent.com/u/22601416?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "updated",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
