@@ -32,8 +32,21 @@
 
 .hashtags {
   margin-top: 2%;
+  font-weight: bold;
+  color: #8be9fd	;
 }
 
 #work section:hover {
   border: 2px solid #ccc;
+}
+
+.fa-code-branch {
+  color: #97BCF9 !important;
+}
+
+.fa-code {
+  color: #F6A42F !important;
+}
+.fa-star {
+  color: #F5F027 !important;
 }

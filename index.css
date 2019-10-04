@@ -332,13 +332,14 @@ body {
   margin: 1vh 0px;
   padding: 0px 1px;
   word-wrap: break-word;
+  color: #50fa7b	;
 }
 
 .about_section {
   font-size: 18px;
   font-family: 'Questrial', sans-serif;
   margin: 2vh 0px;
-  font-weight: bold;
+  font-weight: normal;
   word-wrap: break-word;
 }
 
