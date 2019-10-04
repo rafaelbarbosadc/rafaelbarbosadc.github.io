@@ -25,3 +25,15 @@
 .userbiotext {
   font-size: 9px;
 }
+
+.hashtags span {
+  margin-right: 4px;
+}
+
+.hashtags {
+  margin-top: 2%;
+}
+
+#work section:hover {
+  border: 2px solid #ccc;
+}
