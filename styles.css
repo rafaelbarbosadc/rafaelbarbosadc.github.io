@@ -7,19 +7,21 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  max-width: 350px;
+  width: 100%;
   flex-wrap: wrap;
 }
 
 .tech {
-  width: 100px;
-  height: 100px;
+  width: 25%;
+  height: 25%;
   filter: grayscale(00%);
   transition: ease-in-out 0.2s;
   margin-right: 10px;
-  margin-bottom: 20px;
 }
 
 .tech:hover {
-  filter: grayscale(70%)
+  filter: grayscale(70%);
+}
+.userbiotext {
+  font-size: 9px;
 }
