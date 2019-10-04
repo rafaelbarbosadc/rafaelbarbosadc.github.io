@@ -466,12 +466,11 @@ body {
     justify-self: flex-end;
     width: 0;
     height: 0;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-top: 10px solid #fff;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #fff;
     text-align: center;
     animation: shadow-pulse 1s infinite;
-    margin-bottom: 0px;
   }
 
   #display {
