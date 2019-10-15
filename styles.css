@@ -36,10 +36,6 @@
   color: #8be9fd	;
 }
 
-#work section:hover {
-  border: 0px solid #ccc;
-}
-
 .fa-code-branch {
   color: #97BCF9 !important;
 }
